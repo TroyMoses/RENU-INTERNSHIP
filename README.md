@@ -80,9 +80,9 @@ RENU-INTERNSHIP/
 
 ## 🧭 Notes
 
-- Update this log daily.
-- Add practical screenshots and summaries in their respective folders.
-- Link each assignment or project done under the day's section.
+- This log is updated on a daily.
+- It includes practical screenshots and summaries in their respective folders.
+- Each assignment or project is linked under the day's section.
 
 > _"The more you know, the more you grow."_ 🌱
 
